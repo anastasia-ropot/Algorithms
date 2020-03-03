@@ -8,3 +8,9 @@ https://github.com/nastya-ropot/Algorithms/blob/master/exponentiation.js
 
 ## 2) Arithmetic Series & Recursion
 https://github.com/nastya-ropot/Algorithms/blob/master/arithmeticSeries.js
+
+## 3) Factorial & Recursion
+https://github.com/nastya-ropot/Algorithms/blob/master/factorial.js
+
+## 4) Fibonacci & Recursion
+https://github.com/nastya-ropot/Algorithms/blob/master/fibonacci.js
