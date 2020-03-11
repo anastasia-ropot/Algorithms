@@ -18,9 +18,13 @@ https://github.com/nastya-ropot/Algorithms/blob/master/fibonacci.js
 # Sorting Algorithms
 
 ## 5) Stupid sort
-Put items in order by comparing the current item with the previous item. If they are in order, move to the next item. If they are out of order, swap them and move to the start. 
+
+Put items in order by comparing the current item with the previous item. If they are in order, move to the next item. If they are out of order, swap them and move to the start.
+
 https://github.com/nastya-ropot/Algorithms/blob/master/stupidSort.js
 
 ## 6) Bubble sort
+
 Bubble sort is an algorithm that compares the adjacent elements and swaps their positions if they are not in the intended order. The order can be ascending or descending.
+
 https://github.com/nastya-ropot/Algorithms/blob/master/bubbleSort.js
