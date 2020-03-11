@@ -5,7 +5,7 @@ An algorithm is a step by step method of solving a problem. It is commonly used 
 
 ## 1) Exponentiation & Recursion
 
-Exponentiation (power) is an arithmetic operation on numbers. It is repeated multiplication, just as multiplication is repeated addition. The task is to write a function getRecursionPow(a, b) that calculates getRecursionPow(2, 3) => 8
+The task is to write a function getRecursionPow(a, b) that calculates getRecursionPow(2, 3) => 8
 
 https://github.com/nastya-ropot/Algorithms/blob/master/exponentiation.js
 
