@@ -37,6 +37,6 @@ https://github.com/nastya-ropot/Algorithms/blob/master/stupidSort.js
 
 ## 6) Bubble sort
 
-Bubble sort is an algorithm that compares the adjacent elements and swaps their positions if they are not in the intended order. The order can be ascending or descending.
+The bubble sort makes multiple passes through a list. It compares adjacent items and exchanges those that are out of order. Each pass through the list places the next largest value in its proper place. 
 
 https://github.com/nastya-ropot/Algorithms/blob/master/bubbleSort.js
