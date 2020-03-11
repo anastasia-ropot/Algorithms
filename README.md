@@ -10,9 +10,15 @@ https://github.com/nastya-ropot/Algorithms/blob/master/exponentiation.js
 https://github.com/nastya-ropot/Algorithms/blob/master/arithmeticSeries.js
 
 ## 3) Factorial & Recursion
+
+The task is to write a function getRecursionFactorial(n) that calculates n!
+
 https://github.com/nastya-ropot/Algorithms/blob/master/factorial.js
 
 ## 4) Fibonacci & Recursion
+
+Write a function getRecursionFibonacci(n) that returns the n-th Fibonacci number.
+
 https://github.com/nastya-ropot/Algorithms/blob/master/fibonacci.js
 
 # Sorting Algorithms
